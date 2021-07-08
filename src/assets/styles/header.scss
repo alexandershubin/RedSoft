@@ -1,0 +1,17 @@
+.header {
+  &__logo {
+    margin-right: 48px;
+  }
+
+  &__wrapper {
+    border-bottom: 1px solid #E1E1E1;
+    margin-bottom: 45px;
+  }
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  padding: 24px 20px;
+}
+
